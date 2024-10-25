@@ -1,6 +1,6 @@
 # To-Do List App 📝
 
-Este é um projeto simples de lista de tarefas (To-Do List) desenvolvido com HTML, CSS (utilizando Bootstrap ou Tailwind) e JavaScript. A aplicação permite a criação, leitura, edição e exclusão de tarefas, com armazenamento de dados no `localStorage`, garantindo que as informações persistam mesmo após o recarregamento da página.
+Este é um projeto simples de lista de tarefas (To-Do List) desenvolvido com HTML, CSS e JavaScript. A aplicação permite a criação, leitura, edição e exclusão de tarefas, com armazenamento de dados no `localStorage`, garantindo que as informações persistam mesmo após o recarregamento da página.
 
 ## Funcionalidades ✨
 
