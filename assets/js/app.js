@@ -3,7 +3,7 @@ const button = document.querySelector("#button");
 const tasks = document.querySelector("#tasks");
 const addNewTask = document.querySelector("#add-new-task");
 
-let backgrounds = ["/assets/img/backgronds/back-1.jpg", "/assets/img/backgronds/back-2.jpg", "/assets/img/backgronds/back-3.jpg", "/assets/img/backgronds/back-4.jpg"];
+let backgrounds = ["./assets/img/backgronds/back-1.jpg", "./assets/img/backgronds/back-2.jpg", "./assets/img/backgronds/back-3.jpg", "./assets/img/backgronds/back-4.jpg"];
 let currentBackgroundIndex = 0;
 
 setInterval(() => {
